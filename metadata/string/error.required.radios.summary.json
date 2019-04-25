@@ -1,0 +1,6 @@
+{
+  "_id": "error.required.radios.summary",
+  "_type": "string.error",
+  "description": "Select if [whatever it is]",
+  "value": "Select if [whatever it is]"
+}

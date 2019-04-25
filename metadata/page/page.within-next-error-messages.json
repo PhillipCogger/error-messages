@@ -1,0 +1,16 @@
+{
+  "_id": "page.within-next-error-messages",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.within-next-error-messages--date.auto_name__9",
+      "_type": "date",
+      "label": "Within next error message",
+      "name": "auto_name__9",
+      "validation": {
+        "dateWithinNext": "{\r\n“amount”: 6,\r\n“unit”: “month”\r\n}\r\nmonth  day   year"
+      }
+    }
+  ],
+  "url": "within-next-error-messages"
+}

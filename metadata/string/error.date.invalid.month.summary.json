@@ -1,0 +1,6 @@
+{
+  "_id": "error.date.invalid.month.summary",
+  "_type": "string.error",
+  "description": "Enter a real month",
+  "value": "Enter a real month"
+}

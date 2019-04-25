@@ -1,0 +1,16 @@
+{
+  "_id": "page.between-dates-error-message",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.between-dates-error-message--date.auto_name__8",
+      "_type": "date",
+      "label": "Within last dates error message",
+      "name": "auto_name__8",
+      "validation": {
+        "dateWithinLast": "{\r\n“amount”: 6,\r\n“unit”: “month”\r\n}\r\nmonth  day   year"
+      }
+    }
+  ],
+  "url": "within-last-dates-error-message"
+}

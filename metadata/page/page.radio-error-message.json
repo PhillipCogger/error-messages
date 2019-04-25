@@ -1,0 +1,34 @@
+{
+  "_id": "page.radio-error-message",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.radio-error-message--radios.auto_name__12",
+      "_type": "radios",
+      "hint": "Please trigger some errors",
+      "items": [
+        {
+          "_id": "page.radio-error-message--radios.auto_name__12--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Select option 1",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.radio-error-message--radios.auto_name__12--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Select option 2",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.radio-error-message--radios.auto_name__12--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Select option 3",
+          "value": "auto_value__3"
+        }
+      ],
+      "name": "auto_name__12"
+    }
+  ],
+  "heading": "Radio error test page",
+  "url": "radio-error-message"
+}

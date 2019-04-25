@@ -1,0 +1,17 @@
+{
+  "_id": "page.date-range-error-test",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date-range-error-test--date.auto_name__6",
+      "_type": "date",
+      "hint": "Please enter a date after 2000-10-24",
+      "label": "After date error test",
+      "name": "auto_name__6",
+      "validation": {
+        "dateAfter": "2000-10-24"
+      }
+    }
+  ],
+  "url": "date-range-error-test"
+}

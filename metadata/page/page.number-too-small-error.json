@@ -1,0 +1,26 @@
+{
+  "_id": "page.number-too-small-error",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.number-too-small-error--number.auto_name__11",
+      "_type": "number",
+      "errors": {
+        "minimum": {
+          "inline": "Number must be more than [whatever it is]",
+          "summary": "Number must be more than [whatever it is]"
+        },
+        "required": {
+          "inline": "Number must be more than [whatever it is]",
+          "summary": "Number must be more than [whatever it is]"
+        }
+      },
+      "label": "Number too small error",
+      "name": "auto_name__11",
+      "validation": {
+        "minimum": 50
+      }
+    }
+  ],
+  "url": "number-too-small-error"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "page.check-box-error-test",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.check-box-error-test--checkboxes",
+      "_type": "checkboxes",
+      "errors": {
+        "required": {
+          "inline": "Select at least 1 [whatever it is]"
+        }
+      },
+      "hint": "If you have dual nationality, select all options that are relevant to you.",
+      "items": [
+        {
+          "_id": "page.check-box-error-test--checkboxes--checkbox.auto_name__1",
+          "_type": "checkbox",
+          "hint": "including English, Scottish, Welsh and Northern Irish",
+          "label": "British",
+          "name": "auto_name__1",
+          "value": "yes"
+        },
+        {
+          "_id": "page.check-box-error-test--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "Irish",
+          "name": "auto_name__2",
+          "value": "yes"
+        },
+        {
+          "_id": "page.check-box-error-test--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Citizen of another country",
+          "name": "auto_name__3",
+          "value": "yes"
+        }
+      ],
+      "legend": "What is your nationality?",
+      "validation": {
+        "required": true
+      }
+    }
+  ],
+  "url": "check-box-error-test"
+}

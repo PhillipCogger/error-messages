@@ -1,0 +1,6 @@
+{
+  "_id": "error.date.invalid.year.summary",
+  "_type": "string.error",
+  "description": "Enter a full year, for example [4-number year format example]",
+  "value": "Enter a full year, for example [4-number year format example]"
+}

@@ -1,0 +1,6 @@
+{
+  "_id": "error.required.checkboxes.summary",
+  "_type": "string.error",
+  "description": "Select at least 1 [whatever it is]",
+  "value": "Select at least 1 [whatever it is]"
+}

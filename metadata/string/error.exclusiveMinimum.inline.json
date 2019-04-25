@@ -1,0 +1,6 @@
+{
+  "_id": "error.exclusiveMinimum.inline",
+  "_type": "string.error",
+  "description": "Number must be more than [whatever it is]",
+  "value": "Number must be more than [whatever it is]"
+}

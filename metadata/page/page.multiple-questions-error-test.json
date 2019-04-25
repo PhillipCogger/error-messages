@@ -1,0 +1,19 @@
+{
+  "_id": "page.multiple-questions-error-test",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.multiple-questions-error-test--text.auto_name__4",
+      "_type": "text",
+      "hint": "You must enter something here",
+      "name": "auto_name__4",
+      "validation": {
+        "maxLength": 20,
+        "minLength": 10,
+        "pattern": "^\\w{2}\\s*(\\d{2}\\s*){3}\\w$"
+      }
+    }
+  ],
+  "heading": "Error test following page",
+  "url": "multiple-questions-error-test"
+}

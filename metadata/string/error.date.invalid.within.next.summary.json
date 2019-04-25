@@ -1,0 +1,6 @@
+{
+  "_id": "error.date.invalid.within.next.summary",
+  "_type": "string.error",
+  "description": "[whatever it is] must be the same as or after [date and optional description]",
+  "value": "[whatever it is] must be the same as or after [date and optional description]"
+}

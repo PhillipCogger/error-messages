@@ -1,0 +1,17 @@
+{
+  "_id": "page.before-date-error-message",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.before-date-error-message--date.auto_name__7",
+      "_type": "date",
+      "hint": "Please enter a date before 2000-10-24",
+      "label": "Before date error message",
+      "name": "auto_name__7",
+      "validation": {
+        "dateBefore": "2000-10-24"
+      }
+    }
+  ],
+  "url": "before-date-error-message"
+}

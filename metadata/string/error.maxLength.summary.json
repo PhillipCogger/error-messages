@@ -1,0 +1,6 @@
+{
+  "_id": "error.maxLength.summary",
+  "_type": "string.error",
+  "description": "[whatever it is] must be [number] characters or less",
+  "value": "[whatever it is] must be [number] characters or less"
+}

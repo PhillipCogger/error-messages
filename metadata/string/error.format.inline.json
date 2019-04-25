@@ -1,0 +1,6 @@
+{
+  "_id": "error.format.inline",
+  "_type": "string.error",
+  "description": "Enter [whatever it is] in the correct format, like [whatever it is]",
+  "value": "Enter [whatever it is] in the correct format, like [whatever it is]"
+}

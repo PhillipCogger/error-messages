@@ -1,0 +1,6 @@
+{
+  "_id": "error.pattern.summary",
+  "_type": "string.error",
+  "description": "Enter only [characters] for [whatever it is]",
+  "value": "Enter only [characters] for [whatever it is]"
+}

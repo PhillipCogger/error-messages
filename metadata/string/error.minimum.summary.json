@@ -1,0 +1,6 @@
+{
+  "_id": "error.minimum.summary",
+  "_type": "string.error",
+  "description": "Enter [X] characters or more",
+  "value": "Enter [X] characters or more"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": "errors.summary.heading",
+  "_type": "string.error",
+  "description": "There is a problem",
+  "value": "There is a problem",
+  "value:cy": "Croso y cynreerru {errorCount, plural, 1 {was a problem} other {were problems}} on the page"
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "page.wrong-pattern-error-page",
+  "_type": "page.content",
+  "body": "testing testing",
+  "components": [
+    {
+      "_id": "page.wrong-pattern-error-page--content",
+      "_type": "content",
+      "html": "please enter something in this field"
+    }
+  ],
+  "heading": "Pattern error test",
+  "lede": "testing character pattern error",
+  "url": "wrong-pattern-error-page"
+}
